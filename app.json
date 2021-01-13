@@ -1,0 +1,12 @@
+{
+  "name": "spacex-explorer",
+  "displayName": "spacex-explorer",
+  "expo": {
+    "name": "spacex-explorer",
+    "slug": "spacex-explorer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
