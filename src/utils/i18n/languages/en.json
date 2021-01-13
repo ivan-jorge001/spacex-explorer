@@ -1,0 +1,11 @@
+{
+    "plus_sign": "+",
+    "back_arrow": "<",
+    "back_text": "Back",
+    "create_launch_screen_default_image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
+    "create_launch_screen_add_image_text": "Click to add",
+    "create_launch_screen_input_name_placeholder": "Name....",
+    "create_launch_screen_input_description_placeholder": "Description....",
+    "create_launch_screen_submit_button_text": "Submit"
+
+}
