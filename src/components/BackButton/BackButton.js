@@ -41,4 +41,3 @@ BackButton.defaultProps = {
 BackButton.propTypes = {
     onPress: PropTypes.func,
 }
-
